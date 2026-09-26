@@ -1,7 +1,7 @@
 /*
  * CS:APP Data Lab（位操作实验）
  *
- * <在这里填写姓名和用户 ID>
+ * Author: jj-balabla
  *
  * bits.c：填写本实验答案的源文件，也是需要提交的文件。
  *
