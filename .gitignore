@@ -1,0 +1,14 @@
+# 编译产生的中间文件
+*.o
+
+# Data Lab 本地生成的程序
+/labs/datalab/btest
+/labs/datalab/fshow
+/labs/datalab/ishow
+/labs/datalab/test
+
+# 编辑器备份和系统文件
+*~
+*.swp
+.DS_Store
+Thumbs.db
